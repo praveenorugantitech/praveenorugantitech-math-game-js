@@ -4,6 +4,6 @@
 <img align="right" width="100%"  src="screenshot.PNG" />
 </div>
 
-[Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-math-game-js/Demo/)
+[Live Demo](http://praveenorugantitech.github.io/praveenorugantitech-math-js/Demo/)
 
 
